@@ -44,7 +44,7 @@ body {
 .numbers {
     font-size: 60px;
     font-weight: 900;
-    color: #3b34ff;
+    color: #4E47FF;
     margin-bottom: 0px;
     margin-top: 30px;
     text-align: center;
@@ -57,3 +57,78 @@ body {
     margin-bottom: 50px;
 }
 
+
+/* styles of card three */
+.card-three-sec h2{
+    text-align: center;
+    margin-top: 137px;
+    font-size: 40px;
+}
+
+.card-three {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+
+.card-three-div {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 366px;
+    height: 243px;
+    padding-left: 45px;
+    padding-right: 20px;
+}
+
+.character-details {
+    display: flex;
+    align-items: center;
+}
+
+.character-img {
+    width: 45px;
+    border-radius: 25px;
+}
+
+.character-info {
+    padding-left: 8px;
+}
+
+.character-info p {
+    margin: 0px;
+}
+/* Styles of card four */
+
+.card-four {
+    margin-top: 137px;
+    margin: 137px 149px 92px 149px;
+    background-color: white;
+    padding: 100px 60px;
+    border-radius: 15px;
+}
+
+.c4-qoute {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.c4-heading {
+    text-align: center;
+    font-size: 44px;
+}
+
+.c4-btn {
+    text-align: center;
+}
+
+.c4-img {
+    text-align: center;
+    
+}
+
+.c4-image {
+    width: 750px;
+    height: 325px;
+    border-radius: 48px;
+}
