@@ -20,6 +20,10 @@ body {
     font-size: 22px;
 }
 
+.card-one div img {
+    border-radius: 30px;
+}
+
 /* Styles of Card-two */
 
 .card-two {

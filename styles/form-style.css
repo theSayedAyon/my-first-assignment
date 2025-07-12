@@ -1,0 +1,33 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 150px 150px;
+    gap: 200px;
+}
+
+.form div h1 {
+    font-size: 60px;
+}
+
+.form div p {
+    margin-bottom: 8px;
+}
+
+.form div input {
+    border: none;
+    height: 50px;
+    width: 300px;
+    padding-left: 20px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#textarea {
+    color: rgb(126, 126, 126);
+    padding-top: 10px;
+    padding-left: 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: none;
+}
